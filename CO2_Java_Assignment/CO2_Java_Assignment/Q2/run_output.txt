@@ -1,0 +1,18 @@
+n=1000
+append ArrayList=245410 ns, LinkedList=737250 ns
+front insert (up to 2000) ArrayList=551491 ns, LinkedList=304418 ns
+indexed get (up to 5000) ArrayList=144268 ns, LinkedList=2379433 ns
+iteration ArrayList=324529 ns, LinkedList=512863 ns
+ArrayDeque end operations=325680 ns
+n=10000
+append ArrayList=919285 ns, LinkedList=1011823 ns
+front insert (up to 2000) ArrayList=1741542 ns, LinkedList=299350 ns
+indexed get (up to 5000) ArrayList=363007 ns, LinkedList=17783316 ns
+iteration ArrayList=982940 ns, LinkedList=1097312 ns
+ArrayDeque end operations=1708843 ns
+n=50000
+append ArrayList=3115581 ns, LinkedList=3256513 ns
+front insert (up to 2000) ArrayList=5231447 ns, LinkedList=177106 ns
+indexed get (up to 5000) ArrayList=492030 ns, LinkedList=14858773 ns
+iteration ArrayList=3185337 ns, LinkedList=3652669 ns
+ArrayDeque end operations=4956583 ns

@@ -1,0 +1,14 @@
+\nInventory size: 1000
+put ns HashMap=37380413, TreeMap=13169760, LinkedHashMap=6032282
+lookup ns HashMap=634195, TreeMap=1054568, LinkedHashMap=284648
+iteration ns HashMap=569768, TreeMap=437199, LinkedHashMap=609438
+Code-order report (TreeMap): [MED000000, MED000001, MED000002, MED000003, MED000004]
+Insertion-order report (LinkedHashMap): [MED000000, MED000001, MED000002, MED000003, MED000004]
+\nInventory size: 10000
+put ns HashMap=68721122, TreeMap=44453012, LinkedHashMap=42516086
+lookup ns HashMap=2856691, TreeMap=8190082, LinkedHashMap=1822203
+iteration ns HashMap=1431256, TreeMap=2159301, LinkedHashMap=1120888
+\nInventory size: 50000
+put ns HashMap=126702509, TreeMap=69274636, LinkedHashMap=49071576
+lookup ns HashMap=8551476, TreeMap=11411232, LinkedHashMap=5842797
+iteration ns HashMap=5431297, TreeMap=1321069, LinkedHashMap=1459858

@@ -1,0 +1,9 @@
+Withdrawal successful: 1000.00; balance: 4000.00
+ATM transaction attempt finished.
+Input error: For input string: "abc"
+ATM transaction attempt finished.
+Input error: Amount must be positive
+ATM transaction attempt finished.
+Transaction declined: Insufficient balance
+ATM transaction attempt finished.
+Handled by caller: Insufficient balance

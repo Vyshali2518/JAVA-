@@ -1,0 +1,6 @@
+Manual version: invalid data in /tmp/sales-stores18441353213340539943/store3.txt: For input string: "BAD-DATA"
+Try-with-resources: invalid data in /tmp/sales-stores18441353213340539943/store3.txt: For input string: "BAD-DATA"
+Manual report lines: 5
+Try-with-resources report lines: 5
+Manual output: /tmp/manual-report4250971066901646947.csv
+Try-with-resources output: /tmp/safe-report14400749797912693807.csv

@@ -1,0 +1,8 @@
+FAILED score7.txt: For input string: "CORRUPT"
+FAILED score14.txt: For input string: "CORRUPT"
+FAILED missing-score.txt: /tmp/exam-scores8263502318126251983/missing-score.txt
+Pool size: 4
+Files processed: 19
+Successes: 16, failures: 3
+Total of valid scores: 750
+Elapsed time (ns): 8883901

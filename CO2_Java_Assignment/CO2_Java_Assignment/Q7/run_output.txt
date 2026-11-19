@@ -1,0 +1,4 @@
+Workload: 10000 tickets x 50 fields
+Original String concatenation: 61210784 ns
+Redesigned StringBuilder: 13169489 ns
+Compare results over multiple runs; timings vary by machine and JVM.
